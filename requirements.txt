@@ -1,0 +1,12 @@
+spacy
+networkx
+numpy
+pandas
+polars
+scikit-learn
+openai
+tqdm
+pydantic
+faiss-cpu
+sentence-transformers
+python-dotenv
